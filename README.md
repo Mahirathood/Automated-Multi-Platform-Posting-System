@@ -342,6 +342,9 @@ INFO:     Uvicorn running on http://0.0.0.0:4000 (Press CTRL+C to quit)
 ### 2. Swagger UI Documentation
 API documentation available at http://localhost:4000/docs showing the `/posting` endpoint with request/response schemas.
 
+<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/2a52dd05-9ba6-4c35-98a1-e8f0867f529e" />
+
+
 ### 3. Health Check Endpoint
 **Request:** `GET http://localhost:4000/health`
 **Response:**
