@@ -1,4 +1,4 @@
-# Automated Multi-Platform Posting System
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/360b7220-9c9a-4cfc-b0f6-bea7a5913f4b" /># Automated Multi-Platform Posting System
 
 A FastAPI-based application that automatically publishes messages across multiple third-party platforms through their APIs.
 
@@ -598,7 +598,7 @@ Add actual screenshots to the `docs/` folder and reference them here:
 
 
 ### Test Results
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/244a8a87-a278-4c9f-a9c9-1ab7cf0041f8" />
 
 
 ## Error Handling
