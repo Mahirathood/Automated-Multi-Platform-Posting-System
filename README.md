@@ -578,14 +578,12 @@ Add actual screenshots to the `docs/` folder and reference them here:
 
 
 ### Successful Posting Response
-![Success Response](docs/success-response.png)
 <img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/74e68633-20f2-4a0e-a00b-caa5217fe987" />
 <img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/7ef245de-f97f-4e97-ba91-512cfccd3b77" />
 <img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/4c3f17ce-1e2f-471b-927e-26b58982611b" />
 
 
 ### Validation Error
-![Validation Error](docs/validation-error.png)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad4ff6b4-8bfb-4415-abcf-f766cbe35f8b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7db73bd-3218-463f-adb7-bf0ea4a7b26a" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7a2ce7a6-c250-4010-a569-a65f5d5431b1" />
@@ -596,12 +594,12 @@ Add actual screenshots to the `docs/` folder and reference them here:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c75d6c0-7eac-4f30-bdce-fa804192ca62" />
 
 ### Health Check
-![Health Check](docs/health-check.png)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78feec35-9c37-478f-b70a-3a7fcfe228bb" />
 
 
 ### Test Results
-![Test Results](docs/test-results.png)
+![Uploading image.png…]()
+
 
 ## Error Handling
 
